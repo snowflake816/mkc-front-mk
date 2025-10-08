@@ -1,4 +1,4 @@
-# mkc-front-mk
+# Magic Kitties Community
 
 A front-end project for managing and displaying content in the mkc ecosystem.
 
